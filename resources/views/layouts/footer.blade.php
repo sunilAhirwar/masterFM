@@ -28,7 +28,7 @@
                         <a href="{{ route('about') }}" class="hover:underline">About</a>
                     </li>
                     <li>
-                        <a href="{{ route('about') }}" class="hover:underline">Innocation</a>
+                        <a href="{{ route('innovation') }}" class="hover:underline">Innovation</a>
                     </li>              
                     <li>
                         <a href="{{ route('contact') }}" class="hover:underline">Contact</a>
