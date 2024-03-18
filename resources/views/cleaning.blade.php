@@ -155,7 +155,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Government.jpg" alt="" loading="lazy">
+                <img src="/images/government.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -174,7 +174,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Healthcare.jpg" alt="" loading="lazy">
+                <img src="/images/healthcare.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -198,7 +198,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Education.jpg" alt="" loading="lazy">
+                <img src="/images/education.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>
