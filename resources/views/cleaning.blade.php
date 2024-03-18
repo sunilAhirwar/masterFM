@@ -41,7 +41,7 @@
                 </ul>
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/cleaning-1.jpg" alt="">
+                <img src="/images/cleaning-1.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>
@@ -65,7 +65,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/commercial.jpg" alt="">
+                <img src="/images/commercial.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -86,7 +86,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/minig.jpg" alt="">
+                <img src="/images/minig.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -111,7 +111,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/shopping.jpg" alt="">
+                <img src="/images/shopping.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -133,7 +133,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/banking.jpg" alt="">
+                <img src="/images/banking.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -155,7 +155,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Government.jpg" alt="">
+                <img src="/images/Government.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -174,7 +174,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Healthcare.jpg" alt="">
+                <img src="/images/Healthcare.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -198,7 +198,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Education.jpg" alt="">
+                <img src="/images/Education.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>

@@ -39,7 +39,7 @@
                 </ul>
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/infection-1.jpg" alt="">
+                <img src="/images/infection-1.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>
@@ -69,7 +69,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/covid-19.jpg" alt="">
+                <img src="/images/covid-19.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -96,7 +96,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/ccs.jpg" alt="">
+                <img src="/images/ccs.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -124,7 +124,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/sanitization.jpg" alt="">
+                <img src="/images/sanitization.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -143,7 +143,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/ppe.jpg" alt="">
+                <img src="/images/ppe.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>

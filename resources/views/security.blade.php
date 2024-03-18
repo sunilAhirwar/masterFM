@@ -35,7 +35,7 @@
                 </ul>
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/security-1.jpg" alt="">
+                <img src="/images/security-1.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>
@@ -59,7 +59,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Static-guards.jpg" alt="">
+                <img src="/images/Static-guards.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -79,7 +79,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Concierge.jpg" alt="">
+                <img src="/images/Concierge.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -99,7 +99,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Security-patrols.jpg" alt="">
+                <img src="/images/Security-patrols.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -119,7 +119,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Event-security.jpg" alt="">
+                <img src="/images/Event-security.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -140,7 +140,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Gatehouse.jpg" alt="">
+                <img src="/images/Gatehouse.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -162,7 +162,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Carpark.jpg" alt="">
+                <img src="/images/Carpark.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -183,7 +183,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/Weighbridge.jpg" alt="">
+                <img src="/images/Weighbridge.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>

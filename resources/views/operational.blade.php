@@ -2,7 +2,7 @@
 
     <div class="w-full h-96 overflow-hidden">
         <img class="relative w-full h-96 object-cover" src="/images/operational-cover.jpg" alt="">
-        <div class="absolute top-0 left-0 w-full h-96  flex items-center justify-center">
+        <div class="absolute top-0 left-0 w-full h-96 bg-black bg-opacity-10 flex items-center justify-center">
             <h1 class="text-white font-bold text-3xl">Operational services</h1>
         </div>
     </div>
@@ -26,7 +26,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/operational-1.jpg" alt="">
+                <img src="/images/operational-1.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>

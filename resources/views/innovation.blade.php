@@ -22,7 +22,7 @@
                     surpasses client benchmarks.</p>
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/quality.jpg" alt="">
+                <img src="/images/quality.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -40,7 +40,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/manage-1.jpg" alt="">
+                <img src="/images/manage-1.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -66,7 +66,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/reports.jpg" alt="">
+                <img src="/images/reports.jpg" alt="" loading="lazy">
             </div>
         </div>
 
@@ -89,7 +89,7 @@
 
             </div>
             <div class="flex-none max-w-96">
-                <img src="/images/calender.jpg" alt="">
+                <img src="/images/calender.jpg" alt="" loading="lazy">
             </div>
         </div>
     </div>
